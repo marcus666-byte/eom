@@ -1,0 +1,45 @@
+* {
+  margin: 0px;
+}
+.navbar {
+  overflow: hidden;
+  background-color: black;
+}
+
+.navbar p {
+  font-style: oblique;
+  text-align: left;
+}
+.navbar a {
+  text-decoration: none;
+  float: right;
+  padding: 14px 16px;
+  font-size: 40px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+body {
+  background-image: url("war.jpg");
+  background-size: cover;
+}
+
+.description {
+  color: gray;
+}
+
+.story {
+  color: yellow;
+}
+
+p {
+  color: whitesmoke;
+  font-size: 30px;
+}
+
+.navbar a:hover {
+  background-color: black;
+  color: yellow;
+}
+

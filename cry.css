@@ -1,0 +1,41 @@
+.navbar a {
+  text-decoration: none;
+  padding: 14px 16px;
+  font-size: 40px;
+  color: white;
+}
+
+.navbar {
+  overflow: hidden;
+  text-align: center;
+  font-size: 90px;
+  text-transform: capitalize;
+  text-align: start;
+  color: antiquewhite;
+}
+
+body {
+  background-image: url("thumb-1920-948585.png");
+  background-size: cover;
+}
+
+.description {
+  color: gray;
+}
+
+.story {
+  color: white;
+}
+
+p {
+  font-size: 30px;
+}
+
+b {
+  color: whitesmoke;
+}
+
+.navbar a:hover {
+  background-color: black;
+  color: yellow;
+}

@@ -1,0 +1,33 @@
+.navbar a {
+  text-decoration: none;
+  padding: 14px 16px;
+  font-size: 40px;
+  color: white;
+}
+
+.navbar {
+  overflow: hidden;
+  text-align: center;
+  font-size: 90px;
+  text-transform: capitalize;
+  text-align: start;
+  color: antiquewhite;
+}
+
+body {
+  background-image: url(naruto.jpg);
+  background-size: cover;
+}
+
+.description {
+  color: gray;
+}
+
+p {
+  color: whitesmoke;
+  font-size: 30px;
+}
+
+b {
+  color: yellow;
+}

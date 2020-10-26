@@ -1,0 +1,76 @@
+.navbar a {
+  text-decoration: none;
+  float: right;
+  padding: 14px 16px;
+  font-size: 40px;
+  color: white;
+}
+.title {
+  color: whitesmoke;
+  font-size: 34px;
+}
+
+.price {
+  color: whitesmoke;
+  font-size: 25px;
+}
+
+.card {
+  box-shadow: yellow;
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px 15px 20px 15px;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+.navbar {
+  overflow: hidden;
+  color: black;
+}
+
+.navbar p {
+  font-style: oblique;
+  text-align: left;
+}
+.navbar a {
+  text-decoration: none;
+  float: right;
+  padding: 14px 16px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.navbar a:hover {
+  background-color: black;
+  color: yellow;
+}
+
+body {
+  background-image: url(game.jpg);
+  background-size: cover;
+}
+
+.name {
+  font-size: 20px;
+  float: left;
+  color: white;
+  padding: 14 px 16px;
+  text-decoration: none;
+  text-align: center;
+}

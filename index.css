@@ -1,0 +1,76 @@
+* {
+  margin: 0px;
+}
+.navbar {
+  overflow: hidden;
+  background-color: black;
+}
+
+.navbar p {
+  font-style: oblique;
+  text-align: left;
+}
+.navbar a {
+  text-decoration: none;
+  float: right;
+  padding: 14px 16px;
+  font-size: 40px;
+  color: white;
+  font-size: 30;
+  text-align: center;
+}
+
+.landing h1 {
+  text-align: center;
+  color: aliceblue;
+  font-style: inherit;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 80px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.landing h2 {
+  text-align: center;
+  color: antiquewhite;
+  font-size: 40px;
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
+.navbar a:hover {
+  background-color: black;
+  color: yellow;
+}
+
+body {
+  background-color: cornflowerblue;
+  background-size: cover;
+}
+
+.name p {
+  float: left;
+  color: blueviolet;
+}
+.name {
+  font-size: 20px;
+  float: left;
+  color: white;
+  padding: 14 px 16px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.button-2 {
+  border: 1px solid white;
+  text-transform: uppercase;
+  background: transparent;
+  color: black;
+  text-align: center;
+  font-size: 1.4em;
+  padding: 20px 40px;
+  text-decoration: none;
+  margin: 0 auto;
+  display: block;
+  width: 100px;
+  background-color: yellow;
+}
